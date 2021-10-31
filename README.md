@@ -5,11 +5,11 @@ Auto comment any Instagram post you want!
 - Put them in the same folder
 - Open the python file
 - Add your Instagram Username and Password 
-- Add a post link to comment
+- Add link of a post to comment
 - Add a comment 
 - Click Run
 
-You will see the # comments in the file to put your username, password, link of post and comment
+You will see the # comments in the python file to put your username, password, post and comment
 
 # Chrome Driver
 You need to have the same version of chrome.exe and chromedriver.exe
